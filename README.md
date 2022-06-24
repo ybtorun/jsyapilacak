@@ -1,1 +1,4 @@
-![Image] (https://github.com/ybtorun/jsyapilacak/blob/main/main.PNG)
+# Eksikler
+** localstorage ayarı
+** enter tuşu ile giriş
+
