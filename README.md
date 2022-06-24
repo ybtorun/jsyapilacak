@@ -1,4 +1,4 @@
 # Eksikler
-** localstorage ayarı
-** enter tuşu ile giriş
+* localstorage ayarı
+* enter tuşu ile giriş
 
